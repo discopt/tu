@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['range',['range',['../structtu_1_1SparseMatrix_1_1Data.html#a5ccc30a9433d50adaeb6e36d3656595d',1,'tu::SparseMatrix::Data']]],
+  ['reducedcomponents',['reducedComponents',['../struct__TU__TDEC__NEWCOLUMN.html#aa33fb985ee993063c313728f3e95b53c',1,'_TU_TDEC_NEWCOLUMN']]],
+  ['reducededgestorage',['reducedEdgeStorage',['../struct__TU__TDEC__NEWCOLUMN.html#a4ca5d2c82eecd72e2954a8e002337d1c',1,'_TU_TDEC_NEWCOLUMN']]],
+  ['reducedmembers',['reducedMembers',['../struct__TU__TDEC__NEWCOLUMN.html#ac18be52fbcb6bf15fbd85cfcd9b1580f',1,'_TU_TDEC_NEWCOLUMN']]],
+  ['remainsgraphic',['remainsGraphic',['../struct__TU__TDEC__NEWCOLUMN.html#a96098e35924c5195ab129a227924f381',1,'_TU_TDEC_NEWCOLUMN']]],
+  ['representativemember',['representativeMember',['../structTU__TDEC__MEMBER__DATA.html#ada7357691f2011d67a373a7b3e0ccabc',1,'TU_TDEC_MEMBER_DATA']]],
+  ['representativenode',['representativeNode',['../structTU__TDEC__NODE__DATA.html#ad4ab1e46784be896197fa52d88f6c35a',1,'TU_TDEC_NODE_DATA']]],
+  ['representativenonpathedge',['representativeNonpathEdge',['../struct__ReducedMember.html#a447b69dce43a8b0cfeac84abc5195930',1,'_ReducedMember']]],
+  ['representativepathedge',['representativePathEdge',['../struct__ReducedMember.html#a4cb23c2dfcc46b308012ce9e3b964d40',1,'_ReducedMember']]],
+  ['root',['root',['../struct__ReducedComponent.html#a961fe27beffa83d20a4f33b3c5f88dc6',1,'_ReducedComponent']]],
+  ['rootdepth',['rootDepth',['../struct__ReducedComponent.html#a934e68ece2ef793dfffa63f68256f4a8',1,'_ReducedComponent']]],
+  ['rootedge',['rootEdge',['../structNodeData.html#a67176bade396329bcc76e53d86b40105',1,'NodeData']]],
+  ['rootmember',['rootMember',['../struct__ReducedMember.html#a4d747ed96ed68477fd0753127bf1f651',1,'_ReducedMember']]],
+  ['row',['row',['../structtu_1_1Matrix_1_1Nonzero.html#a105fcba16a4f62cbbee327cf0ce9e347',1,'tu::Matrix::Nonzero']]],
+  ['rowedges',['rowEdges',['../struct__TU__TDEC.html#a68abd568790feab34f9ab15c1eadb802',1,'_TU_TDEC']]],
+  ['rowlabels',['rowLabels',['../struct__TU__DEC.html#a0195d725bc9074c216393988665efb63',1,'_TU_DEC']]],
+  ['rows',['rows',['../structtu_1_1submatrix__indices.html#afa2691b388bc4c24aa31cda355bb2697',1,'tu::submatrix_indices::rows()'],['../structTU__SUBMAT.html#a11ba170a6a28775266e7200fc5a3e220',1,'TU_SUBMAT::rows()']]],
+  ['rowstarts',['rowStarts',['../structTU__DBLMAT.html#a1bc571943da2e41b272c40c7b225181f',1,'TU_DBLMAT::rowStarts()'],['../structTU__INTMAT.html#a48b8c01b6921e348c619fb4566300af8',1,'TU_INTMAT::rowStarts()'],['../structTU__CHRMAT.html#a776dcc5f4abbe59ff92c92e6aa65469a',1,'TU_CHRMAT::rowStarts()'],['../structTU__MATRIX.html#ad225548339dc09fc9af9c8821482e68a',1,'TU_MATRIX::rowStarts()']]],
+  ['rowstooriginal',['rowsToOriginal',['../structTU__ONESUM__COMPONENT.html#a461b9fa79c1f2c7cdfd7d14e92fdd87e',1,'TU_ONESUM_COMPONENT']]]
+];
