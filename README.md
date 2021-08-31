@@ -1,1 +1,1 @@
-The library for testing **total unimodularity** has been incorporated into the **Combinatorial Matrix Recognition** library, which is available at https://github.com/discopt/cmr.
+The library for testing **total unimodularity** has been incorporated into the **Combinatorial Matrix Recognition** library, which is available at http://discopt.github.io/cmr/.
